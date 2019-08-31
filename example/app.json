@@ -29,8 +29,8 @@
     },
     "android": {
       "package": "com.jumpygames.exothepoweroftictactoe"
-    }
-    
- 
+    },
+    "description": "Siente todo el pooower, pooower de este tic tac  toe version exo.",
+    "githubUrl": "https://github.com/javieramontenegro/SCL009-tic-tac-toe"
   }
 }
